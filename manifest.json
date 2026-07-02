@@ -1,0 +1,10 @@
+{
+  "id": "md-beautify",
+  "name": "MD Beautify",
+  "version": "1.0.9",
+  "minAppVersion": "1.7.2",
+  "description": "An elegant Markdown beautifier for WeChat and other platforms.",
+  "author": "MD Beautify Team",
+  "authorUrl": "https://github.com/sliiu/md-beautify",
+  "isDesktopOnly": false
+}
